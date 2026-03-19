@@ -28,6 +28,6 @@
 
 # Live Project
 
-Explore the live project here https://bulkmail-website.vercel.app/. Experience fast, secure, and professional bulk email sending — right from your browser.
+Explore the live project here https://bulkmail-project-nine.vercel.app/. Experience fast, secure, and professional bulk email sending — right from your browser.
 
 Thank you for visiting my BulkMail Website Project!
