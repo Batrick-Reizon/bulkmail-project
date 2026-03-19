@@ -43,6 +43,10 @@ function App() {
       } else {
         alert("Failed to send message in email")
       }
+    }).catch((error) => {
+      console.log(error)
+      alert("Server error / backend not responding")
+    }).finally(() => {
       setStatus(false)
       setMessage("")
       setEmailList([])
